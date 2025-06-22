@@ -1,0 +1,5 @@
+yfinance==0.2.63
+matplotlib==3.10.3
+seaborn==0.13.2
+plotly==6.1.2
+kaleido==1.0.0
